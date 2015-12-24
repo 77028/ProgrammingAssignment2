@@ -8,7 +8,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
-  x <- 
+  x <- rnorm(100)
   
   
 }
